@@ -1,3 +1,5 @@
+# gives you a progress ascii bar.
+
 [CmdletBinding()]
 Param(
     [Parameter(Mandatory=$false, ValueFromPipeline=$true)]
