@@ -1,3 +1,5 @@
+# This is a unix, i know this! - j/k, reads a local or fetches a remote fortune file, outputs a fortune or outputs the fortune that matches thine search.
+
 [CmdletBinding()]
 param(
     [string]$Search,
