@@ -1,3 +1,5 @@
+# TOCK takes a markdown formatted table of contents with links and outputs hash style headers with their associated url to an unordered list on the console.
+
 # Get the file path as an argument
 $filePath = $args[0]
 
